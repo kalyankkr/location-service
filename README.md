@@ -1,6 +1,6 @@
 # REST API (Address Service):
 
-This service provides REST endpoint for Address service to retrieve addresses of particular country eg: US, CA
+This Service provides REST endpoint for Address service to retrieve address Information of particular country eg: US, CA.
 
 # Prerequisites for Development:
 

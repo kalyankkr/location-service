@@ -1,4 +1,4 @@
-# RES0 API (Address Service):
+# REST API (Address Service):
 
 This service provides REST endpoint for Address service to retrieve addresses of particular country eg: US, CA
 

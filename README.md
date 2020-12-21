@@ -1,15 +1,15 @@
-# REST-Address Service:
+# RES0 API (Address Service):
 
 This service provides REST endpoint for Address service to retrieve addresses of particular country eg: US, CA
 
 # Prerequisites for Development:
 
-Building:
+## Building:
 Use maven to build the service from command line by running the following command at the root of the directory of the project: mvn clean package
 
 Once build is complete, the runtime application is available in target directory
 
-Running Application:
+## Running Application:
 As Spring boot jar
 If you want to run the service locally, simply run the following at the command line from root directory of the project
 
